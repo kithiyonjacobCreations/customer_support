@@ -1,0 +1,86 @@
+[
+  {
+    "prompt": "Hello",
+    "response": "Hello! How can I help you today?"
+  },
+  {
+    "prompt": "Hi",
+    "response": "Hi there! How can I assist you?"
+  },
+  {
+    "prompt": "Good morning",
+    "response": "Good morning! What can I help you with today?"
+  },
+  {
+    "prompt": "How do I reset my password?",
+    "response": "I'd be happy to help with that! You can easily reset your password by going to the 'Account Settings' page on our website and clicking the 'Forgot Password' link. A reset link will be sent to your registered email address."
+  },
+  {
+    "prompt": "I forgot my login details.",
+    "response": "No problem at all. If you've forgotten your password, you can use the 'Forgot Password' link on the login page. If you've forgotten your username or email, please contact our support team for assistance."
+  },
+  {
+    "prompt": "My password isn't working.",
+    "response": "I'm sorry to hear you're having trouble. Please try resetting your password through the 'Forgot Password' link. If that doesn't work, our support team can assist you further. You can reach them at support@example.com."
+  },
+  {
+    "prompt": "How can I track my order?",
+    "response": "You can track your order at any time by visiting the 'Order History' section in your account. Just click on the tracking number next to your order to see the latest updates."
+  },
+  {
+    "prompt": "Where is my package?",
+    "response": "I can help you find that. Please check the 'Order History' in your account for the most recent tracking information. If the tracking hasn't updated in a few days, please let us know."
+  },
+  {
+    "prompt": "Can I cancel my order?",
+    "response": "You can cancel an order within two hours of placing it. Please go to your 'Order History' and see if the 'Cancel Order' button is still available. If it is not, the order is already being processed and cannot be canceled."
+  },
+  {
+    "prompt": "How do I request a refund?",
+    "response": "We can certainly help with that. To request a refund for a returned item, please contact our support team directly with your order number. They will process it for you. Our email is support@example.com."
+  },
+  {
+    "prompt": "What is your return policy?",
+    "response": "We have a 30-day return policy. You can return any item within 30 days of purchase for a full refund, as long as it's in its original condition. For more details, please visit the 'Returns' page on our website."
+  },
+  {
+    "prompt": "How do I contact customer support?",
+    "response": "You can reach our dedicated customer support team by sending an email to support@example.com or by calling our toll-free number at 1-800-123-4567. We're here to help!"
+  },
+  {
+    "prompt": "What are your business hours?",
+    "response": "Our support team is available to assist you from 9 AM to 6 PM, Monday through Friday."
+  },
+  {
+    "prompt": "I need to talk to a person.",
+    "response": "I understand. To speak with a member of our team, please call us at 1-800-123-4567 during our business hours, 9 AM to 6 PM, Monday to Friday."
+  },
+  {
+    "prompt": "My discount code isn't working.",
+    "response": "I'm sorry for the trouble. Please double-check that the code was entered correctly and hasn't expired. If it's still not working, please contact our support team at support@example.com, and they'll look into it for you."
+  },
+  {
+    "prompt": "Is there a warranty on your products?",
+    "response": "Yes, absolutely! All of our products come with a one-year manufacturer's warranty that covers any defects in materials and workmanship."
+  },
+  {
+    "prompt": "Can you tell me about the meaning of life?",
+    "response": "That's a very deep question! While I'm an expert on our products and services, I'm not equipped to answer philosophical questions. For any support-related queries, I'm here to help!"
+  },
+  {
+    "prompt": "What's the weather like today?",
+    "response": "I'm sorry, but I can't provide information about the weather. My expertise is in helping with account issues, order tracking, and our products. Is there anything else I can assist you with?"
+  },
+  {
+    "prompt": "I want to complain about a service.",
+    "response": "I am very sorry to hear that you had a bad experience. Your feedback is very important to us. Please send the details of your complaint to our dedicated support email at support@example.com so we can investigate and address it properly."
+  },
+  {
+    "prompt": "How do I update my billing information?",
+    "response": "You can update your billing information easily. Just log in to your account, go to 'Account Settings', and you will find the 'Payment Methods' section where you can make changes."
+  },
+  {
+    "prompt": "Do you ship internationally?",
+    "response": "Yes, we do! We're happy to offer international shipping to most countries. Please note that shipping costs and delivery times will vary depending on the destination."
+  }
+]
