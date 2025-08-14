@@ -49,7 +49,8 @@ The final model is packaged for **local deployment** and **inference** using [Ol
 
 git clone <your-repository-url>
 cd <your-repository-name>
-**### 2. Fine-Tune the Model**
+### 2. Fine-Tune the Model
+
 Open the provided Google Colab notebook.
 
 Upload the data.json file to your Colab environment.
@@ -57,11 +58,15 @@ Upload the data.json file to your Colab environment.
 Run all the cells in the notebook. This will execute the fine-tuning process and generate the customer-support-model.gguf file.
 
 Download the customer-support-model.gguf file and place it in the root directory of this repo
+### 3. Set Up and Run with Ollama
 
-**### 3. Set Up and Run with Ollama**
 Make sure Ollama is installed.
+
 in terminal
+
 ollama create customer-support -f Modelfile
+
 ollama run customer-support
+
 
 You can now interact with your custom-trained customer support assistant!
